@@ -1,0 +1,10 @@
+C:\Users\Hassen\Desktop\4TWIN\S2\.NET\Gestion Equipes\GE.Domain\bin\Debug\netcoreapp3.1\GE.Domain.deps.json
+C:\Users\Hassen\Desktop\4TWIN\S2\.NET\Gestion Equipes\GE.Domain\bin\Debug\netcoreapp3.1\GE.Domain.dll
+C:\Users\Hassen\Desktop\4TWIN\S2\.NET\Gestion Equipes\GE.Domain\bin\Debug\netcoreapp3.1\GE.Domain.pdb
+C:\Users\Hassen\Desktop\4TWIN\S2\.NET\Gestion Equipes\GE.Domain\obj\Debug\netcoreapp3.1\GE.Domain.csproj.AssemblyReference.cache
+C:\Users\Hassen\Desktop\4TWIN\S2\.NET\Gestion Equipes\GE.Domain\obj\Debug\netcoreapp3.1\GE.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hassen\Desktop\4TWIN\S2\.NET\Gestion Equipes\GE.Domain\obj\Debug\netcoreapp3.1\GE.Domain.AssemblyInfoInputs.cache
+C:\Users\Hassen\Desktop\4TWIN\S2\.NET\Gestion Equipes\GE.Domain\obj\Debug\netcoreapp3.1\GE.Domain.AssemblyInfo.cs
+C:\Users\Hassen\Desktop\4TWIN\S2\.NET\Gestion Equipes\GE.Domain\obj\Debug\netcoreapp3.1\GE.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Hassen\Desktop\4TWIN\S2\.NET\Gestion Equipes\GE.Domain\obj\Debug\netcoreapp3.1\GE.Domain.dll
+C:\Users\Hassen\Desktop\4TWIN\S2\.NET\Gestion Equipes\GE.Domain\obj\Debug\netcoreapp3.1\GE.Domain.pdb

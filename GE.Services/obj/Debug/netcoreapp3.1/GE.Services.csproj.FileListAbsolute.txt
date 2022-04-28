@@ -1,0 +1,17 @@
+C:\Users\Hassen\Desktop\4TWIN\S2\.NET\Gestion Equipes\GE.Services\bin\Debug\netcoreapp3.1\GE.Services.deps.json
+C:\Users\Hassen\Desktop\4TWIN\S2\.NET\Gestion Equipes\GE.Services\bin\Debug\netcoreapp3.1\GE.Services.dll
+C:\Users\Hassen\Desktop\4TWIN\S2\.NET\Gestion Equipes\GE.Services\bin\Debug\netcoreapp3.1\GE.Services.pdb
+C:\Users\Hassen\Desktop\4TWIN\S2\.NET\Gestion Equipes\GE.Services\obj\Debug\netcoreapp3.1\GE.Services.csproj.AssemblyReference.cache
+C:\Users\Hassen\Desktop\4TWIN\S2\.NET\Gestion Equipes\GE.Services\obj\Debug\netcoreapp3.1\GE.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hassen\Desktop\4TWIN\S2\.NET\Gestion Equipes\GE.Services\obj\Debug\netcoreapp3.1\GE.Services.AssemblyInfoInputs.cache
+C:\Users\Hassen\Desktop\4TWIN\S2\.NET\Gestion Equipes\GE.Services\obj\Debug\netcoreapp3.1\GE.Services.AssemblyInfo.cs
+C:\Users\Hassen\Desktop\4TWIN\S2\.NET\Gestion Equipes\GE.Services\obj\Debug\netcoreapp3.1\GE.Services.csproj.CoreCompileInputs.cache
+C:\Users\Hassen\Desktop\4TWIN\S2\.NET\Gestion Equipes\GE.Services\obj\Debug\netcoreapp3.1\GE.Services.dll
+C:\Users\Hassen\Desktop\4TWIN\S2\.NET\Gestion Equipes\GE.Services\obj\Debug\netcoreapp3.1\GE.Services.pdb
+C:\Users\Hassen\Desktop\4TWIN\S2\.NET\Gestion Equipes\GE.Services\bin\Debug\netcoreapp3.1\GE.Data.dll
+C:\Users\Hassen\Desktop\4TWIN\S2\.NET\Gestion Equipes\GE.Services\bin\Debug\netcoreapp3.1\GE.Domain.dll
+C:\Users\Hassen\Desktop\4TWIN\S2\.NET\Gestion Equipes\GE.Services\bin\Debug\netcoreapp3.1\GE.Data.pdb
+C:\Users\Hassen\Desktop\4TWIN\S2\.NET\Gestion Equipes\GE.Services\bin\Debug\netcoreapp3.1\GE.Domain.pdb
+C:\Users\Hassen\Desktop\4TWIN\S2\.NET\Gestion Equipes\GE.Services\obj\Debug\netcoreapp3.1\GE.Services.csproj.CopyComplete
+C:\Users\Hassen\Desktop\4TWIN\S2\.NET\Gestion Equipes\GE.Services\bin\Debug\netcoreapp3.1\GE.ServicePattern.dll
+C:\Users\Hassen\Desktop\4TWIN\S2\.NET\Gestion Equipes\GE.Services\bin\Debug\netcoreapp3.1\GE.ServicePattern.pdb
